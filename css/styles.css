@@ -373,7 +373,7 @@ nav a {
   text-decoration: none;
 }
 nav a:hover {
-  color: #123;
+  color: rgb(232, 228, 174);
 }
 
 #footerWrapper {
